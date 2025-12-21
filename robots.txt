@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jualkostjakarta.github.io/sitemap.xml
